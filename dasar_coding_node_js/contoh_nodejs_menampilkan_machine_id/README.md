@@ -1,0 +1,19 @@
+# Cara Mencoba Kode Ini
+
+Untuk mencoba kode ini, buka folder ini di command line.
+
+Selanjutnya, jalankan:
+
+```
+npm install
+```
+
+Selanjutnya, jalankan:
+
+```
+npm run synchronous
+
+// atau
+
+npm run asynchronous
+```
