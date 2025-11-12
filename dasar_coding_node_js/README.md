@@ -1,4 +1,4 @@
-# Belajar Coding Node.js
+# Dasar Coding Node.js
 
 ## Ditulis oleh: RAKIFSUL
 ## Pada tanggal: 2024-12-05
@@ -6,7 +6,7 @@
 <div style="margin-top: 100px;"></div>
 
 <p align="center">
-	<img src="./.md_asset/kopi-done.png" />
+	<img src="./.md_asset/rakifsul.png" />
 </p>
 
 <div style="page-break-after: always;"></div>
@@ -479,7 +479,7 @@ Berikut ini adalah prasyarat dari tutorial ini:
 
 ### Langkah-Langkah
 
-Pertama, buatlah project Node.js bernama "contoh_nodejs_nodemon" dengan cara yang telah dijelaskan di "[Belajar Node JS Cara Membuat Project](https://github.com/rakifsul/belajar_coding_node_js/blob/main/Belajar-Node-JS-Cara-Membuat-Project.md)".
+Pertama, buatlah project Node.js bernama "contoh_nodejs_nodemon".
 
 Selanjutnya, ubah file "package.json" menjadi seperti ini:
 
@@ -637,7 +637,7 @@ Berikut ini adalah prasyarat dari tutorial ini:
 
 ### Langkah-Langkah
 
-Pertama, buatlah project Node.js bernama "contoh_nodejs_hello_world_tanpa_framework" dengan cara yang telah dijelaskan di "[Belajar Node JS Cara Membuat Project](https://github.com/rakifsul/belajar_coding_node_js/blob/main/Belajar-Node-JS-Cara-Membuat-Project.md)".
+Pertama, buatlah project Node.js bernama "contoh_nodejs_hello_world_tanpa_framework".
 
 Selanjutnya, ubah file "package.json" menjadi seperti ini:
 
@@ -811,7 +811,7 @@ Berikut ini adalah prasyarat dari tutorial ini:
 
 ### Langkah-Langkah
 
-Pertama, buatlah project Node.js bernama "contoh_nodejs_hello_world_dengan_express" dengan cara yang telah dijelaskan di "[Belajar Node JS Cara Membuat Project](https://github.com/rakifsul/belajar_coding_node_js/blob/main/Belajar-Node-JS-Cara-Membuat-Project.md)".
+Pertama, buatlah project Node.js bernama "contoh_nodejs_hello_world_dengan_express".
 
 Selanjutnya, ubah file "package.json" menjadi seperti ini:
 
@@ -1157,7 +1157,7 @@ Berikut ini adalah prasyarat dari tutorial ini:
 
 ### Langkah-Langkah
 
-Pertama, buatlah project Node.js bernama "contoh_nodejs_express_middleware" dengan cara yang telah dijelaskan di "[Belajar Node JS Cara Membuat Project](https://github.com/rakifsul/belajar_coding_node_js/blob/main/Belajar-Node-JS-Cara-Membuat-Project.md)".
+Pertama, buatlah project Node.js bernama "contoh_nodejs_express_middleware".
 
 Selanjutnya, ubah file "package.json" menjadi seperti ini:
 
@@ -1505,7 +1505,7 @@ Berikut ini adalah prasyarat dari tutorial ini:
 
 ### Langkah-Langkah
 
-Pertama, buatlah project Node.js bernama "contoh_nodejs_express_router" dengan cara yang telah dijelaskan di "[Belajar Node JS Cara Membuat Project](https://github.com/rakifsul/belajar_coding_node_js/blob/main/Belajar-Node-JS-Cara-Membuat-Project.md)".
+Pertama, buatlah project Node.js bernama "contoh_nodejs_express_router".
 
 Selanjutnya, ubah file "/package.json" menjadi seperti ini:
 
@@ -2327,7 +2327,7 @@ Berikut ini adalah prasyarat dari tutorial ini:
 
 ### Langkah-Langkah
 
-Pertama, buatlah project Node.js bernama "contoh_nodejs_bcryptjs" dengan cara yang telah dijelaskan di "[Belajar Node JS Cara Membuat Project](https://github.com/rakifsul/belajar_coding_node_js/blob/main/Belajar-Node-JS-Cara-Membuat-Project.md)".
+Pertama, buatlah project Node.js bernama "contoh_nodejs_bcryptjs".
 
 Selanjutnya, ubah file "package.json" menjadi seperti ini:
 
@@ -2574,7 +2574,7 @@ Berikut ini adalah prasyarat dari tutorial ini:
 
 ### Langkah-Langkah
 
-Pertama, buatlah project Node.js bernama "contoh_nodejs_dotenv" dengan cara yang telah dijelaskan di "[Belajar Node JS Cara Membuat Project](https://github.com/rakifsul/belajar_coding_node_js/blob/main/Belajar-Node-JS-Cara-Membuat-Project.md)".
+Pertama, buatlah project Node.js bernama "contoh_nodejs_dotenv".
 
 Selanjutnya, ubah file "package.json" menjadi seperti ini:
 
@@ -2742,7 +2742,7 @@ Berikut ini adalah prasyarat dari tutorial ini:
 
 ### Langkah-Langkah
 
-Pertama, buatlah project Node.js bernama "contoh_nodejs_axios" dengan cara yang telah dijelaskan di "[Belajar Node JS Cara Membuat Project](https://github.com/rakifsul/belajar_coding_node_js/blob/main/Belajar-Node-JS-Cara-Membuat-Project.md)".
+Pertama, buatlah project Node.js bernama "contoh_nodejs_axios".
 
 Selanjutnya, ubah file "package.json" menjadi seperti ini:
 
@@ -2837,7 +2837,7 @@ contoh_nodejs_puppeteer
 
 ### Pendahuluan
 
-Setelah Anda belajar tentang Axios pada "[Belajar Node JS Mengenal Axios](https://github.com/rakifsul/belajar_coding_node_js/blob/main/Belajar-Node-JS-Mengenal-Axios.md)", mungkin Anda akan menyadari sesuatu.
+Setelah Anda belajar tentang Axios, mungkin Anda akan menyadari sesuatu.
 
 Yakni, isi HTML yang diperoleh melalui Axios tadi masih bisa diolah.
 
@@ -2893,7 +2893,7 @@ Berikut ini adalah prasyarat dari tutorial ini:
 
 ### Langkah-Langkah
 
-Pertama, buatlah project Node.js bernama "contoh_nodejs_puppeteer" dengan cara yang telah dijelaskan di "[Belajar Node JS Cara Membuat Project](https://github.com/rakifsul/belajar_coding_node_js/blob/main/Belajar-Node-JS-Cara-Membuat-Project.md)".
+Pertama, buatlah project Node.js bernama "contoh_nodejs_puppeteer".
 
 Selanjutnya, ubah file "package.json" menjadi seperti ini:
 

@@ -67,7 +67,7 @@ Source code project ini ada di folder "company_profile".
 
 ## Website Saya (Jika Masih Ada)
 
-- https://rakifsul.my.id
+- https://www.rakifsul.my.id
 
 ## Cara Mencoba Kode Project Ini
 
