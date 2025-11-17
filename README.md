@@ -1,6 +1,6 @@
 # List of RAKIFSUL Ngoding Tutorials
 
-This repository contains my Node.js coding tutorials written in Bahasa Indonesia.
+This repository contains my Node.js coding tutorials written in Bahasa Indonesia. If you want to read the English version, right click on your browser, then click "Translate to English".
 
 - [Dasar-Dasar Coding Node.js](/dasar_coding_node_js)
 - [Studi Kasus Coding Node.js](/studi_kasus_node_js_company_profile)
